@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e0a836f-3e69-4bcc-93ff-870478b8a6a9" name="Changes" comment="3.3 added">
-      <change afterPath="$PROJECT_DIR$/src/Cursor_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DragnDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mouse1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mouse2.java" afterDir="false" />
+    <list default="true" id="7e0a836f-3e69-4bcc-93ff-870478b8a6a9" name="Changes" comment="3.4 added">
+      <change afterPath="$PROJECT_DIR$/src/Accept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChoiceOfResolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Name.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +56,8 @@
       <workItem from="1676883973890" duration="175000" />
       <workItem from="1676886870653" duration="2000" />
       <workItem from="1676890697254" duration="18000" />
-      <workItem from="1677165061993" duration="1890000" />
+      <workItem from="1677165061993" duration="2595000" />
+      <workItem from="1677176150853" duration="377000" />
     </task>
     <task id="LOCAL-00001" summary="All done">
       <created>1676824846214</created>
@@ -73,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677165966166</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3.4 added">
+      <created>1677172346621</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677172346621</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +89,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="All done" />
     <MESSAGE value="3.3 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.3 added" />
+    <MESSAGE value="3.4 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.4 added" />
   </component>
 </project>
