@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e0a836f-3e69-4bcc-93ff-870478b8a6a9" name="Changes" comment="3.4 added">
-      <change afterPath="$PROJECT_DIR$/src/Accept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChoiceOfResolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Name.java" afterDir="false" />
+    <list default="true" id="7e0a836f-3e69-4bcc-93ff-870478b8a6a9" name="Changes" comment="3.5 added">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EditorWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TextEditor.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TextEditor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,18 +32,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "false",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +61,9 @@
       <workItem from="1676886870653" duration="2000" />
       <workItem from="1676890697254" duration="18000" />
       <workItem from="1677165061993" duration="2595000" />
-      <workItem from="1677176150853" duration="377000" />
+      <workItem from="1677176150853" duration="2343000" />
+      <workItem from="1677244127505" duration="116000" />
+      <workItem from="1677252118028" duration="600000" />
     </task>
     <task id="LOCAL-00001" summary="All done">
       <created>1676824846214</created>
@@ -80,7 +86,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677172346621</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3.5 added">
+      <created>1677176785948</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677176785948</updated>
+    </task>
+    <task id="LOCAL-00005" summary="3.5 added">
+      <created>1677244228445</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677244228445</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +110,7 @@
     <MESSAGE value="All done" />
     <MESSAGE value="3.3 added" />
     <MESSAGE value="3.4 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.4 added" />
+    <MESSAGE value="3.5 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.5 added" />
   </component>
 </project>
