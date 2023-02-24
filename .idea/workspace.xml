@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e0a836f-3e69-4bcc-93ff-870478b8a6a9" name="Changes" comment="3.4 added">
-      <change afterPath="$PROJECT_DIR$/src/Accept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChoiceOfResolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Name.java" afterDir="false" />
+    <list default="true" id="7e0a836f-3e69-4bcc-93ff-870478b8a6a9" name="Changes" comment="3.5 added">
+      <change afterPath="$PROJECT_DIR$/src/N361.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N362.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N363.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N364.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N365.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N366.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N367.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N368.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N369.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +63,7 @@
       <workItem from="1676886870653" duration="2000" />
       <workItem from="1676890697254" duration="18000" />
       <workItem from="1677165061993" duration="2595000" />
-      <workItem from="1677176150853" duration="377000" />
+      <workItem from="1677176150853" duration="2343000" />
     </task>
     <task id="LOCAL-00001" summary="All done">
       <created>1676824846214</created>
@@ -80,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677172346621</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3.5 added">
+      <created>1677176785948</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677176785948</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +103,7 @@
     <MESSAGE value="All done" />
     <MESSAGE value="3.3 added" />
     <MESSAGE value="3.4 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.4 added" />
+    <MESSAGE value="3.5 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.5 added" />
   </component>
 </project>
